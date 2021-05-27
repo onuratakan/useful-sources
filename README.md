@@ -31,3 +31,8 @@
 ### Learning
 
 - https://buraksenyurt.com
+
+
+## Other
+
+- https://app.diagrams.net/ for flow charts
