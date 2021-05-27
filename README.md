@@ -1,6 +1,21 @@
 # My Useful Sources List
 
-## Design
+>- https://colab.research.google.com
+>- https://jupyter.org/try
+>- https://github.com
+>- https://docs.microsoft.com
+
+## Learning
+
+- https://patika.dev
+
+## Frontend
+
+### Learning
+
+- https://gokhansengun.com
+
+### Design
 
 - https://startbootstrap.com
 - https://undraw.co
@@ -11,8 +26,8 @@
 - https://fontawesome.com
 - https://icons8.com
 
-## Software
+## Backend
 
-- https://colab.research.google.com
-- https://jupyter.org/try
-- https://github.com
+### Learning
+
+- https://buraksenyurt.com
